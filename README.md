@@ -1,7 +1,7 @@
 # Kamronbek Begmatov
 **Back-end Developer**  
 📧 kamronbek@begmatov.com                        
-🔗 [LinkedIn](https://linkedin.com/in/kamronbek)
+🔗 [LinkedIn](https://www.linkedin.com/in/kamronbek-begmatov-9a8a12208/)
 
 ---
 
