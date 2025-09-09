@@ -64,7 +64,7 @@
 - 🇷🇺 Russian – Advanced  
 - 🇺🇿 Uzbek – Native
 
----
+<!-- ---
 
 ## GITHUB STATS
 
@@ -74,4 +74,4 @@
 
 <a href="https://github.com/hotkaybee">
   <img align="center" alt="Kamronbek's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotkaybee&layout=compact&langs_count=10&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
-</a>
+</a>-->
